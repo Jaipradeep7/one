@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="tn">
+<html lang="telugu">
 
 <head>
     <meta charset="utf-8" />
